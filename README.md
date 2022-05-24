@@ -8,6 +8,8 @@
 
 - 커피와 개발에 항상 진심이며, 밝고 긍정적인 사고를 가지기 위하여, 이기주님의 언어의 온도를 즐겨 읽습니다.
 
+- 더 나은 개발자로 성장하기 위해서 매일 1일 1커밋을 도전하고 있으며, 넓이 보다 깊이에 중점을 맞추어 학습합니다.
+
 ## Goals of 2022 🔭
 
 우아한 테크코스(Front-End 부분)와 함께 하기 위하여, MVC Model과 ES6 module을 깊이 있게 학습하고 준비하며, 올바른 개발 습관을 가지는 것입니다! [google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html) - [참고]
