@@ -22,10 +22,10 @@
 
 ### Back-End
 
-- PHP, JAVA, Node.JS
+- PHP, Node.JS
 - MySQL, mariaDB
 
-### Tool
+### Tools
 
 - Version Control(Git)
 - Vim, Visual Studio Code
